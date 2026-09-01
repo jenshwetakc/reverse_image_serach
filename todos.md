@@ -4,3 +4,9 @@ Action item
 
 
 Require Images categories: 
+1. Hotels
+2. Food
+3. Places
+4. Cafe
+5. Restaurants 
+
