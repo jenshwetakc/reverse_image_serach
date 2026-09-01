@@ -166,7 +166,7 @@ def batch_download_google_lens(input_folder, output_folder, max_images_per_input
 # ---------- Run ----------
 if __name__ == "__main__":
     batch_download_google_lens(
-        input_folder="/Users/shwetakc/pythonProject3/reverse_image_search/seed/testjimmy",
-        output_folder="/Users/shwetakc/pythonProject3/reverse_image_search/seed/testjimmy/output",
+        input_folder="/test",
+        output_folder="/output",
         max_images_per_input=50
     )
