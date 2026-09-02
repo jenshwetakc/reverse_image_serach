@@ -7,17 +7,17 @@ Action item
 
 After completing the upload check the box
 Require Images categories: 
-[ ] Food
-[ ] Hotels
-[ ] Houses
-[ ] Places
-[ ] Cafe
-[ ] Restaurants 
-[ ] Courses 
-[ ] Game banner
-[ ] Game cover 
-[ ] Game screenshots
-[ ] travel
-[ ] vechicles
+- [ ] Food
+- [ ] Hotels
+- [ ] Houses
+- [ ] Places
+- [ ] Cafe
+- [ ] Restaurants 
+- [ ] Courses 
+- [ ] Game banner
+- [ ] Game cover 
+- [ ] Game screenshots
+- [ ] travel
+- [ ] vechicles
 
 
