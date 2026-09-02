@@ -1,6 +1,6 @@
 
 
-### step 1. Download good quality of images from goggle (40-50) of each type
+### step 1. Download good quality of images from goggle (20-50) of each type
       - Check the watermark, remove the watermarks
       - don't include the image if it has watermark at the center or if you can't remove it
 
