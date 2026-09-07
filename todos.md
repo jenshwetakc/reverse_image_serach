@@ -26,7 +26,7 @@ Need to complete by today:
 - [ ] 14. documents
 - [ ] 15. electronics
 - [ ] 16. file_previews
-- [ ] 17. food
+- [x] 17. food
 - [ ] 18. game_banners
 - [ ] 19. game_covers
 - [ ] 20. game_screenshots
