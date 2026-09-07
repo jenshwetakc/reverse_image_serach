@@ -67,19 +67,5 @@ Need to complete by today:
 
 
 
-After completing the upload check the box
-Require Images categories: 
-- [ ] Food
-- [ ] Hotels
-- [ ] Houses
-- [ ] Places
-- [ ] Cafe
-- [ ] Restaurants 
-- [ ] Courses 
-- [ ] Game banner
-- [ ] Game cover 
-- [ ] Game screenshots
-- [ ] travel
-- [ ] vechicles
 
 
