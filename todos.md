@@ -1,3 +1,46 @@
+
+Todo
+Go to this website: 
+
+- https://pageflows.com/
+- https://dribbble.com/
+- https://www.figma.com/files/team/1008274903684961727/recents-and-sharing/recently-viewed?fuid=1008274898105074778
+
+Download 5 image 
+
+for example Web application, mobile application, 
+
+annotated this classes using label image, save the annotation in yolo format: 
+
+["icon",
+    "system_icon",
+    "button",
+    "avatar",
+    "input_field",
+    "search_bar",
+    "badge",
+    "progress_bar",
+    "slider",
+    "selection_indicator",
+    "tab",
+    "switch",
+    "emoji",
+    "checkbox",
+    "chip",
+    "logo"] 
+
+
+
+
+
+
+
+
+
+
+
+
+## Backlog 
 Action item 
 - Find the seeds image from goggle (20-25) 
 - Collect the images by running the script
@@ -5,9 +48,6 @@ Action item
 - upload to zenodo
 - https://zenodo.org/
 
-
-
-Need to complete by today: 
 ## Checkpoint: Image Classes
 
 - [ ] 01. achievements
